@@ -16,6 +16,13 @@ https://github.com/gnunn1/tilix
 sudo apt -y install tilix
 ```
 
+## mosquitto
+
+```
+sudo apt install -y mosquitto
+```
+
+
 ## visual code
 ```
 sudo snap install code --classic
