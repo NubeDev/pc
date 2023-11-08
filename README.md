@@ -10,7 +10,11 @@ https://snapcraft.io/install/goland/ubuntu
 https://snapcraft.io/slack
 
 ## terminal
-[https://snapcraft.io/slack](https://github.com/gnunn1/tilix)
+https://github.com/gnunn1/tilix
+
+
+## etcher
+https://etcher.balena.io/#download-etcher
 
 ## OSB 
 
