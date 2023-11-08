@@ -12,6 +12,10 @@ https://snapcraft.io/slack
 ## terminal
 https://github.com/gnunn1/tilix
 
+```
+sudo apt -y install tilix
+```
+
 
 ## iso to usb
 
