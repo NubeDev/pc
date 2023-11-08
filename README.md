@@ -20,6 +20,10 @@ https://etcher.balena.io/#download-etcher
 sudo apt install ./balena-etcher_1.18.13_amd64.deb
 ```
 
+## iso to usb
+
+https://github.com/pop-os/popsicle
+
 ## OSB 
 
 i use OBS studio
