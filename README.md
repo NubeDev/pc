@@ -13,13 +13,6 @@ https://snapcraft.io/slack
 https://github.com/gnunn1/tilix
 
 
-## etcher
-https://etcher.balena.io/#download-etcher
-
-```
-sudo apt install ./balena-etcher_1.18.13_amd64.deb
-```
-
 ## iso to usb
 
 https://github.com/pop-os/popsicle
