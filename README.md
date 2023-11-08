@@ -9,6 +9,9 @@ https://snapcraft.io/install/goland/ubuntu
 ## slack
 https://snapcraft.io/slack
 
+## terminal
+[https://snapcraft.io/slack](https://github.com/gnunn1/tilix)
+
 ## OSB 
 
 i use OBS studio
