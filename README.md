@@ -16,6 +16,10 @@ https://github.com/gnunn1/tilix
 sudo apt -y install tilix
 ```
 
+## visual code
+```
+sudo snap install code --classic
+```
 
 ## iso to usb
 
