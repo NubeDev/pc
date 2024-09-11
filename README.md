@@ -3,7 +3,7 @@
 ## chrome
 https://www.google.com/chrome/
 
-## golang
+## goland
 https://snapcraft.io/install/goland/ubuntu
 
 ## slack
@@ -49,5 +49,7 @@ flatpak run com.obsproject.Studio
 make sure you delete the old auth that was already added if aplicable
 ```
 nano ~/.gitconfig
-git config --global url."https://TOKEN:x-oauth-basic@github.com/NubeIO".insteadOf "https://github.com/NubeIO"
+[url "https://<TOKEN>@github.com/NubeIO"]
+    insteadOf = https://github.com/NubeIO
+
 ```
